@@ -1,2 +1,2 @@
-# home
-food delivery 
+
+For this project, I used the MERN stack to build a scalable and full-featured food delivery web application. On the frontend, I used React.js along with the Context API for efficient state management across components. The backend was powered by Node.js and Express.js, providing a robust and modular REST API. For the database, I chose MongoDB with Mongoose for schema modeling and seamless interaction with the data layer. Authentication was handled using JWT (JSON Web Token) to maintain the application’s statelessness and security. To support image uploads (such as user profile photos and vehicle/food item images), I integrated Multer middleware. For deployment, I used Render to host the backend and Vercel for the frontend, enabling fast and scalable delivery. Additional tools like Git, GitHub, Postman, and Axios played key roles in version control, API testing, and frontend-backend communication  
